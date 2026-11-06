@@ -6,7 +6,6 @@ In December 2024, a magnitude 6.8 earthquake hit the Kuril Islands. Three people
 
 This project uses real earthquake and country data to find out what actually makes an earthquake dangerous, and to build toward a model that predicts which earthquakes will get a USGS warning alert.
 
-![Magnitude vs shaking](images/magnitude_vs_shaking.png)
 
 ## Questions
 
